@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.aws.graphql.jpa
+---
+testFramework: spock
+sourceLanguage: java
